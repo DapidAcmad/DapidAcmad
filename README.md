@@ -8,24 +8,24 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/globe%20(1).gif" width="30" height="30"> <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=1000&color=FF5733&center=false&vCenter=true&width=200&height=25&lines=SOCIALS" alt="Socials" />
 
 <p align="left">
-  <a href="https://instagram.com/@dapid_38" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
+  <a href="https://instagram.com/@dapid_38" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="35" width="35" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/David%20Ahmad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/David%20Ahmad" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://tiktok.com/@dapidd038" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="35" width="35" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://tiktok.com/@dapidd038" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tiktok.svg" alt="TikTok" height="32" width="32" style="filter: invert(1);" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://mastodon.social/@David%20Ahmad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mastodon.svg" alt="Mastodon" height="35" width="35" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mastodon.social/@David%20Ahmad" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mastodon/mastodon-original.svg" alt="Mastodon" height="35" width="35" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:david.nawan.2010@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="35" width="35" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:david.nawan.2010@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="35" width="35" />
   </a>
 </p>
 
@@ -34,36 +34,36 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/computer%20mouse/computer%20mouse_32%20-%20Copy.gif" width="30" height="30"> <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=1000&color=33FF33&center=false&vCenter=true&width=250&height=25&lines=TECH+STACK" alt="Tech Stack" />
 
 <p align="left">
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" height="35" width="35" />
+  <a href="https://www.canva.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/canva.svg" alt="Canva" height="32" width="32" style="filter: invert(1);" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/html5.svg" alt="HTML5" height="35" width="35" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="35" width="35" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/php.svg" alt="PHP" height="35" width="35" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.php.net" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="35" width="35" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/python.svg" alt="Python" height="35" width="35" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="35" width="35" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/c++.svg" alt="C++" height="35" width="35" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="35" width="35" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/OperatingSystems/windows.svg" alt="Windows" height="35" width="35" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" height="35" width="35" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/git.svg" alt="Git" height="35" width="35" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35" width="35" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" height="35" width="35" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://cloud.google.com" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="35" width="35" />
   </a>
 </p>
 
