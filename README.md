@@ -21,14 +21,17 @@
   </a>
 </div>
 
-# 📊 GitHub Stats & Hacker Quotes:
+# 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=DapidAcmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=DapidAcmad&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Hacker Quotes" />
 </p>
+
+<!-- Teks Transisi / Ucapan Selamat Menyaksikan Animasi Game -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&height=40&lines=Enjoy+the+contribution+game+animation!+🎮;Have+fun+exploring+my+profile!+🚀" alt="Game Animation Greeting" />
+</div>
 
 <!-- Animasi Pac-Man GitHub Actions (Snk) -->
 <p align="center">
