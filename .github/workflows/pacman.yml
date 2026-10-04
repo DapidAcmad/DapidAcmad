@@ -1,0 +1,38 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  # Jalankan otomatis setiap 24 jam sekali
+  schedule:
+    - cron: "0 */24 * * *"
+  
+  # Bisa dijalankan secara manual dari tab Actions
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Ambil kode dari repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. Jalankan generator Pac-Man SVG
+      - name: Generate Pac-Man Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            pacman-output/pacman-contribution-graph.svg?palette=github-dark
+            pacman-output/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#2db55d,#269943,#196127
+
+      # 3. Simpan dan commit file hasil generate ke branch/folder output
+      - name: Push generated SVG to output branch/folder
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: pacman-output
+          build_dir: pacman-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
