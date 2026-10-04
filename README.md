@@ -21,13 +21,13 @@
   </a>
 </div>
 
-# 📊 GitHub Stats & Pac-Man Animation:
+# 📊 GitHub Stats & Hacker Quotes:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=DapidAcmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=DapidAcmad&theme=dark&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DapidAcmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://readme-quotes.vercel.app/api?theme=dark&font=fira_code" alt="Hacker Quotes" />
 </p>
 
 <!-- Animasi Pac-Man GitHub Actions (Snk) -->
