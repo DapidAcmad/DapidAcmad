@@ -14,18 +14,18 @@
 # 🚀 Popular Repositories:
 <div align="center">
   <a href="https://github.com/DapidAcmad/belajar-git">
-    <img height="140px" src="https://github-readme-stats.shion.dev/api/pin/?username=DapidAcmad&repo=belajar-git&theme=dark&hide_border=false" />
+    <img height="140px" src="https://github-readme-stats.shion.dev/api/pin/?username=DapidAcmad&repo=belajar-git&theme=tokyonight&hide_border=false" />
   </a>
   <a href="https://github.com/DapidAcmad/DapidAcmad">
-    <img height="140px" src="https://github-readme-stats.shion.dev/api/pin/?username=DapidAcmad&repo=DapidAcmad&theme=dark&hide_border=false" />
+    <img height="140px" src="https://github-readme-stats.shion.dev/api/pin/?username=DapidAcmad&repo=DapidAcmad&theme=tokyonight&hide_border=false" />
   </a>
 </div>
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=DapidAcmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.shion.dev/api?username=DapidAcmad&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&ring_color=00FF66&fire=FF6600&curr_streak_num=FFCC00" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=DapidAcmad&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=DapidAcmad&theme=tokyonight&hide_border=false&ring=00FF66&fire=FF6600&sideNums=33CCFF" />
 </p>
 
 <!-- Teks Transisi / Ucapan Selamat Menyaksikan Animasi Game -->
