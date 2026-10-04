@@ -27,7 +27,7 @@
   <br/>
   <img src="https://streak-stats.demolab.com/?user=DapidAcmad&theme=dark&hide_border=false" />
   <br/>
-  <img src="https://readme-quotes.vercel.app/api?theme=dark&font=fira_code" alt="Hacker Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Hacker Quotes" />
 </p>
 
 <!-- Animasi Pac-Man GitHub Actions (Snk) -->
