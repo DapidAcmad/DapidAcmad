@@ -8,26 +8,24 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/globe%20(1).gif" width="30" height="30"> <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=1000&color=FF5733&center=false&vCenter=true&width=200&height=25&lines=SOCIALS" alt="Socials" />
 
 <p align="left">
-  <!-- Biarkan yang sudah berhasil -->
-  <a href="https://instagram.com/@dapid_38" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
+  <a href="https://instagram.com/@dapid_38" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/David%20Ahmad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
+  <a href="https://linkedin.com/in/David%20Ahmad" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- Perbaikan TikTok, Mastodon, Email menggunakan format shields logo yang stabil -->
-  <a href="https://tiktok.com/@dapidd038" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="30" />
+  <a href="https://tiktok.com/@dapidd038" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tiktok.svg" alt="TikTok" height="32" width="32" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://mastodon.social/@David%20Ahmad" target="_blank">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" height="30" />
+  <a href="https://mastodon.social/@David%20Ahmad" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mastodon/mastodon-original.svg" alt="Mastodon" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:david.nawan.2010@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
+  <a href="mailto:david.nawan.2010@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="35" width="35" />
   </a>
 </p>
 
@@ -36,38 +34,36 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/computer%20mouse/computer%20mouse_32%20-%20Copy.gif" width="30" height="30"> <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=1000&color=33FF33&center=false&vCenter=true&width=250&height=25&lines=TECH+STACK" alt="Tech Stack" />
 
 <p align="left">
-  <!-- Biarkan Canva dan Google Cloud yang sudah berhasil -->
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" height="35" width="35" />
+  <a href="https://www.canva.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/canva.svg" alt="Canva" height="32" width="32" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- Perbaikan Tech Stack menggunakan badge resmi logo yang dijamin tampil -->
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" />
+  <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="30" />
+  <a href="https://www.php.net" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30" />
+  <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30" />
+  <a href="https://isocpp.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" height="30" />
+  <a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30" />
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" height="35" width="35" />
+  <a href="https://cloud.google.com" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="35" width="35" />
   </a>
 </p>
 
@@ -101,9 +97,9 @@
 <!-- Animasi Pac-Man -->
 <div align="center">
   <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pac-man-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pac-man-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pac-man-output/pacman-contribution-graph.svg?game=pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/pacman-contribution-graph.svg?game=pacman">
   </picture>
 </div>
 
