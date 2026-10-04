@@ -9,23 +9,23 @@
 
 <p align="left">
   <a href="https://instagram.com/@dapid_38" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/David%20Ahmad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://tiktok.com/@dapidd038" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=TikTok&logoColor=white" alt="TikTok" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mastodon.social/@David%20Ahmad" target="_blank">
-    <img src="https://img.shields.io/badge/Mastodon-%232B90D9.svg?style=flat&logo=mastodon&logoColor=white" alt="Mastodon" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mastodon.svg" alt="Mastodon" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:david.nawan.2010@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="35" width="35" />
   </a>
 </p>
 
@@ -35,35 +35,35 @@
 
 <p align="left">
   <a href="https://www.canva.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva" height="32" />
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/html5.svg" alt="HTML5" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/php.svg" alt="PHP" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/python.svg" alt="Python" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/c++.svg" alt="C++" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank">
-    <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white" alt="Windows Terminal" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/OperatingSystems/windows.svg" alt="Windows" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/git.svg" alt="Git" height="35" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://cloud.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" height="32" />
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" height="35" width="35" />
   </a>
 </p>
 
