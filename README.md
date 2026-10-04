@@ -14,25 +14,19 @@
 
 # 🎮 Interactive Game & Tech Stack:
 
-<!-- Animasi Pac-Man Contribution Graph -->
+<p data-importer="text" align="left">Hello World!!</p>
+
+###
+
 <div align="center">
-  <picture>
+  <picture data-importer="pacman">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/pacman-contribution-graph.svg?game=pacman">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/pacman-contribution-graph.svg?game=pacman">
   </picture>
 </div>
 
-<!-- Animasi Snake GitHub Actions -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
+###
 
 # 💻 Tech Stack & Tools:
 <div align="center">
