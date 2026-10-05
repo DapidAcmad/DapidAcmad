@@ -1,25 +1,37 @@
 <!-- Bagian About Me (Tetap Muncul Per Huruf / Typing Effect) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=7AA2F7&center=true&vCenter=true&width=700&height=35&lines=Hi+there!+I'm+David+Ahmad;I+am+a+Vocational+School+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=39FF14&center=true&vCenter=true&width=700&height=35&lines=Hi+there!+I'm+David+Ahmad;I+am+a+Vocational+School+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- SOCIALS (Desain Elegan Minimalis) -->
+<!-- SOCIALS (Bergerak Kiri-Kanan Utuh + Warna Cyan 8-bit) -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/globe%20(1).gif" width="25" height="25" align="center"> Social Connect</h2>
+  <marquee behavior="alternate" scrollamount="6" width="550">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/globe%20(1).gif" width="30" height="30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=1&pause=86400000&color=00FFFF&center=true&vCenter=true&width=180&height=40&lines=SOCIALS" alt="SOCIALS" />
+  </marquee>
+</div>
+
+<p align="center">
   <a href="https://instagram.com/@dapid_38"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
   <a href="https://linkedin.com/in/David%20Ahmad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://tiktok.com/@dapidd038"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a> 
   <a href="https://mastodon.social/@David%20Ahmad"><img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" /></a> 
   <a href="mailto:david.nawan.2010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+</p>
 
 ---
 
-<!-- TECH STACK -->
+<!-- TECH STACK (Bergerak Kiri-Kanan Utuh + Warna Pink Arcade) -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/computer%20mouse/computer%20mouse_32%20-%20Copy.gif" width="25" height="25" align="center"> Tech Stack</h2>
+  <marquee behavior="alternate" scrollamount="7" width="550">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/computer%20mouse/computer%20mouse_32%20-%20Copy.gif" width="30" height="30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=1&pause=86400000&color=FF00FF&center=true&vCenter=true&width=250&height=40&lines=TECH+STACK" alt="TECH STACK" />
+  </marquee>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,9 +45,15 @@
 
 ---
 
-<!-- POPULAR REPOS -->
+<!-- POPULAR REPOS (Bergerak Kiri-Kanan Utuh + Warna Kuning Pac-Man) -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/rocket/rocket_32.gif" width="25" height="25" align="center"> Popular Repositories</h2>
+  <marquee behavior="alternate" scrollamount="8" width="550">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/rocket/rocket_32.gif" width="30" height="30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=1&pause=86400000&color=FFFF00&center=true&vCenter=true&width=330&height=40&lines=POPULAR+REPOS" alt="POPULAR REPOS" />
+  </marquee>
+</div>
+
+<div align="center">
   <a href="https://github.com/DapidAcmad/belajar-git">
     <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=DapidAcmad&repo=belajar-git&theme=tokyonight&hide_border=false" />
   </a>
@@ -46,19 +64,28 @@
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS (Bergerak Kiri-Kanan Utuh + Warna Merah/Orange Retro) -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/chart%20increasing/chart%20increasing_32.gif" width="25" height="25" align="center"> GitHub Stats</h2>
+  <marquee behavior="alternate" scrollamount="7" width="550">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/chart%20increasing/chart%20increasing_32.gif" width="30" height="30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=1&pause=86400000&color=FF4500&center=true&vCenter=true&width=300&height=40&lines=GITHUB+STATS" alt="GITHUB STATS" />
+  </marquee>
+</div>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DapidAcmad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DapidAcmad&theme=tokyonight&hide_border=false" />
-</div>
+</p>
 
 ---
 
-<!-- ARCADE ZONE -->
+<!-- ARCADE ZONE (Bergerak Kiri-Kanan Utuh + Warna Hijau Neon) -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/video%20game/video%20game_32.gif" width="25" height="25" align="center"> Arcade Zone</h2>
+  <marquee behavior="alternate" scrollamount="6" width="550">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/video%20game/video%20game_32.gif" width="30" height="30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=1&pause=86400000&color=39FF14&center=true&vCenter=true&width=280&height=40&lines=ARCADE+ZONE" alt="ARCADE ZONE" />
+  </marquee>
 </div>
 
 <!-- Animasi Pac-Man -->
