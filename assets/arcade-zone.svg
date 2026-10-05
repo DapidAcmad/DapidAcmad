@@ -1,14 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="550" height="50">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="70">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
     .text { 
-      font-family: 'Press Start 2P', Courier, monospace; 
-      font-size: 20px; 
-      fill: #39FF14; /* Warna Hijau Neon */
+      font-family: 'Press Start 2P', 'Courier New', monospace; 
+      font-size: 32px; 
+      font-weight: 900;
+      letter-spacing: 4px;
+      fill: #39FF14; 
     }
   </style>
-  <text y="35" class="text">
+  <text y="45" class="text">
     ARCADE ZONE
-    <animate attributeName="x" values="10; 220; 10" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="x" values="10; 340; 10" dur="4s" repeatCount="indefinite" />
   </text>
 </svg>
