@@ -1,11 +1,11 @@
-<!-- Bagian Animasi Teks Arcade untuk About Me (Rata Tengah & Ukuran Lebih Besar) -->
+<!-- Bagian About Me (Font Arcade, Rata Tengah, Kecepatan & Gaya Seragam) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=600&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I'm+David+Ahmad;I+am+a+Vocational+School+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=00FF66&center=true&vCenter=true&width=700&height=35&lines=Hi+there!+I'm+David+Ahmad;I+am+a+Vocational+School+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 ---
 
-<!-- SOCIALS (Rata Tengah, Bergerak Kanan-Kiri Per Kalimat dengan Variasi Warna) -->
+<!-- SOCIALS -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/globe%20(1).gif" width="30" height="30"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=300&height=30&lines=SOCIALS+%E2%9E%A1;SOCIALS+%E2%9B%AB" alt="Socials" />
@@ -21,7 +21,7 @@
 
 ---
 
-<!-- TECH STACK (Rata Tengah, Bergerak Kanan-Kiri Per Kalimat dengan Variasi Warna) -->
+<!-- TECH STACK -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/computer%20mouse/computer%20mouse_32%20-%20Copy.gif" width="30" height="30"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=33FF33&center=true&vCenter=true&width=350&height=30&lines=TECH+STACK+%E2%9E%A1;TECH+STACK+%E2%9B%AB" alt="Tech Stack" />
@@ -41,7 +41,7 @@
 
 ---
 
-<!-- POPULAR REPOS (Rata Tengah, Bergerak Kanan-Kiri Per Kalimat dengan Variasi Warna) -->
+<!-- POPULAR REPOS -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/rocket/rocket_32.gif" width="30" height="30"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=33FFFF&center=true&vCenter=true&width=350&height=30&lines=POPULAR+REPOS+%E2%9E%A1;POPULAR+REPOS+%E2%9B%AB" alt="Popular Repositories" />
@@ -58,7 +58,7 @@
 
 ---
 
-<!-- GITHUB STATS (Rata Tengah, Bergerak Kanan-Kiri Per Kalimat dengan Variasi Warna) -->
+<!-- GITHUB STATS -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/chart%20increasing/chart%20increasing_32.gif" width="30" height="30"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=FF33CC&center=true&vCenter=true&width=350&height=30&lines=GITHUB+STATS+%E2%9E%A1;GITHUB+STATS+%E2%9B%AB" alt="GitHub Stats" />
@@ -72,7 +72,7 @@
 
 ---
 
-<!-- ARCADE ZONE (Rata Tengah, Bergerak Kanan-Kiri Per Kalimat dengan Variasi Warna) -->
+<!-- ARCADE ZONE -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/video%20game/video%20game_32.gif" width="30" height="30"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=FFFF33&center=true&vCenter=true&width=350&height=30&lines=ARCADE+ZONE+%E2%9E%A1;ARCADE+ZONE+%E2%9B%AB" alt="Interactive Game" />
