@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="50">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+    .text { 
+      font-family: 'Press Start 2P', Courier, monospace; 
+      font-size: 20px; 
+      fill: #FF00FF; /* Warna Pink Arcade */
+    }
+  </style>
+  <text y="35" class="text">
+    TECH STACK
+    <animate attributeName="x" values="10; 240; 10" dur="4s" repeatCount="indefinite" />
+  </text>
+</svg>
