@@ -1,16 +1,14 @@
-<!-- Bagian About Me (Tetap Muncul Per Huruf / Typing Effect) -->
+<!-- Bagian About Me -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=39FF14&center=true&vCenter=true&width=700&height=35&lines=Hi+there!+I'm+David+Ahmad;I+am+a+Vocational+School+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- SOCIALS (Bergerak Kiri-Kanan Utuh + Warna Cyan 8-bit) -->
+<!-- SOCIALS -->
 <div align="center">
-  <marquee behavior="alternate" scrollamount="6" width="550">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/globe%20(1).gif" width="30" height="30">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=1&pause=86400000&color=00FFFF&center=true&vCenter=true&width=180&height=40&lines=SOCIALS" alt="SOCIALS" />
-  </marquee>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/globe%20(1).gif" width="30" height="30"><br>
+  <img src="./assets/socials.svg" alt="SOCIALS" />
 </div>
 
 <p align="center">
@@ -23,12 +21,10 @@
 
 ---
 
-<!-- TECH STACK (Bergerak Kiri-Kanan Utuh + Warna Pink Arcade) -->
+<!-- TECH STACK -->
 <div align="center">
-  <marquee behavior="alternate" scrollamount="7" width="550">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/computer%20mouse/computer%20mouse_32%20-%20Copy.gif" width="30" height="30">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=1&pause=86400000&color=FF00FF&center=true&vCenter=true&width=250&height=40&lines=TECH+STACK" alt="TECH STACK" />
-  </marquee>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/computer%20mouse/computer%20mouse_32%20-%20Copy.gif" width="30" height="30"><br>
+  <img src="./assets/tech-stack.svg" alt="TECH STACK" />
 </div>
 
 <div align="center">
@@ -45,12 +41,10 @@
 
 ---
 
-<!-- POPULAR REPOS (Bergerak Kiri-Kanan Utuh + Warna Kuning Pac-Man) -->
+<!-- POPULAR REPOS -->
 <div align="center">
-  <marquee behavior="alternate" scrollamount="8" width="550">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/rocket/rocket_32.gif" width="30" height="30">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=1&pause=86400000&color=FFFF00&center=true&vCenter=true&width=330&height=40&lines=POPULAR+REPOS" alt="POPULAR REPOS" />
-  </marquee>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/rocket/rocket_32.gif" width="30" height="30"><br>
+  <img src="./assets/popular-repos.svg" alt="POPULAR REPOS" />
 </div>
 
 <div align="center">
@@ -64,12 +58,10 @@
 
 ---
 
-<!-- GITHUB STATS (Bergerak Kiri-Kanan Utuh + Warna Merah/Orange Retro) -->
+<!-- GITHUB STATS -->
 <div align="center">
-  <marquee behavior="alternate" scrollamount="7" width="550">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/chart%20increasing/chart%20increasing_32.gif" width="30" height="30">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=1&pause=86400000&color=FF4500&center=true&vCenter=true&width=300&height=40&lines=GITHUB+STATS" alt="GITHUB STATS" />
-  </marquee>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/chart%20increasing/chart%20increasing_32.gif" width="30" height="30"><br>
+  <img src="./assets/github-stats.svg" alt="GITHUB STATS" />
 </div>
 
 <p align="center">
@@ -80,12 +72,10 @@
 
 ---
 
-<!-- ARCADE ZONE (Bergerak Kiri-Kanan Utuh + Warna Hijau Neon) -->
+<!-- ARCADE ZONE -->
 <div align="center">
-  <marquee behavior="alternate" scrollamount="6" width="550">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/video%20game/video%20game_32.gif" width="30" height="30">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=1&pause=86400000&color=39FF14&center=true&vCenter=true&width=280&height=40&lines=ARCADE+ZONE" alt="ARCADE ZONE" />
-  </marquee>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/video%20game/video%20game_32.gif" width="30" height="30"><br>
+  <img src="./assets/arcade-zone.svg" alt="ARCADE ZONE" />
 </div>
 
 <!-- Animasi Pac-Man -->
