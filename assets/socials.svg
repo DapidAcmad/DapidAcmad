@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="50">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+    .text { 
+      font-family: 'Press Start 2P', Courier, monospace; 
+      font-size: 20px; 
+      fill: #00FFFF; /* Warna Cyan 8-bit */
+    }
+  </style>
+  <text y="35" class="text">
+    SOCIALS
+    <!-- Animasi memantul dari titik x=10 ke x=250 -->
+    <animate attributeName="x" values="10; 250; 10" dur="4s" repeatCount="indefinite" />
+  </text>
+</svg>
