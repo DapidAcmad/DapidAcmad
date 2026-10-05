@@ -1,14 +1,18 @@
-<!-- Bagian About Me (Font Arcade, Rata Tengah, Kecepatan & Gaya Seragam) -->
+<!-- Bagian About Me (Tetap menggunakan gaya ketik arcade) -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=00FF66&center=true&vCenter=true&width=700&height=35&lines=Hi+there!+I'm+David+Ahmad;I+am+a+Vocational+School+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 ---
 
-<!-- SOCIALS -->
+<!-- SOCIALS (Bergerak geser utuh per kalimat) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/globe%20(1).gif" width="30" height="30"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=300&height=30&lines=SOCIALS+%E2%9E%A1;SOCIALS+%E2%9B%AB" alt="Socials" />
+  <h3>
+    <span style="font-family: 'Press Start Code', 'Courier New', monospace; color: #FF5733; display: inline-block; animation: slideText 4s ease-in-out infinite alternate;">
+      SOCIALS ➔ ⇄
+    </span>
+  </h3>
 </div>
 
 <p align="center">
@@ -21,10 +25,14 @@
 
 ---
 
-<!-- TECH STACK -->
+<!-- TECH STACK (Bergerak geser utuh per kalimat) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/computer%20mouse/computer%20mouse_32%20-%20Copy.gif" width="30" height="30"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=33FF33&center=true&vCenter=true&width=350&height=30&lines=TECH+STACK+%E2%9E%A1;TECH+STACK+%E2%9B%AB" alt="Tech Stack" />
+  <h3>
+    <span style="font-family: 'Press Start Code', 'Courier New', monospace; color: #33FF33; display: inline-block; animation: slideText 4s ease-in-out infinite alternate;">
+      TECH STACK ➔ ⇄
+    </span>
+  </h3>
 </div>
 
 <div align="center">
@@ -41,10 +49,14 @@
 
 ---
 
-<!-- POPULAR REPOS -->
+<!-- POPULAR REPOS (Bergerak geser utuh per kalimat) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/rocket/rocket_32.gif" width="30" height="30"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=33FFFF&center=true&vCenter=true&width=350&height=30&lines=POPULAR+REPOS+%E2%9E%A1;POPULAR+REPOS+%E2%9B%AB" alt="Popular Repositories" />
+  <h3>
+    <span style="font-family: 'Press Start Code', 'Courier New', monospace; color: #33FFFF; display: inline-block; animation: slideText 4s ease-in-out infinite alternate;">
+      POPULAR REPOS ➔ ⇄
+    </span>
+  </h3>
 </div>
 
 <div align="center">
@@ -58,10 +70,14 @@
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS (Bergerak geser utuh per kalimat) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/chart%20increasing/chart%20increasing_32.gif" width="30" height="30"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=FF33CC&center=true&vCenter=true&width=350&height=30&lines=GITHUB+STATS+%E2%9E%A1;GITHUB+STATS+%E2%9B%AB" alt="GitHub Stats" />
+  <h3>
+    <span style="font-family: 'Press Start Code', 'Courier New', monospace; color: #FF33CC; display: inline-block; animation: slideText 4s ease-in-out infinite alternate;">
+      GITHUB STATS ➔ ⇄
+    </span>
+  </h3>
 </div>
 
 <p align="center">
@@ -72,10 +88,14 @@
 
 ---
 
-<!-- ARCADE ZONE -->
+<!-- ARCADE ZONE (Bergerak geser utuh per kalimat) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/video%20game/video%20game_32.gif" width="30" height="30"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=FFFF33&center=true&vCenter=true&width=350&height=30&lines=ARCADE+ZONE+%E2%9E%A1;ARCADE+ZONE+%E2%9B%AB" alt="Interactive Game" />
+  <h3>
+    <span style="font-family: 'Press Start Code', 'Courier New', monospace; color: #FFFF33; display: inline-block; animation: slideText 4s ease-in-out infinite alternate;">
+      ARCADE ZONE ➔ ⇄
+    </span>
+  </h3>
 </div>
 
 <!-- Animasi Pac-Man -->
@@ -103,3 +123,12 @@
 <div align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=DapidAcmad&icon=0&color=0" /></a>
 </div>
+
+<!-- CSS tambahan untuk animasi geser utuh per kalimat -->
+<style>
+@keyframes slideText {
+  0% { transform: translateX(-30px); opacity: 0.8; }
+  50% { transform: translateX(30px); opacity: 1; color: #FFFFFF; }
+  100% { transform: translateX(-30px); opacity: 0.8; }
+}
+</style>
