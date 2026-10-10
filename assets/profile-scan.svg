@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="70">
+  <style>
+    .text { font-family: 'Press Start 2P', 'Courier New', monospace; font-size: 32px; font-weight: 900; letter-spacing: 4px; }
+  </style>
+  <text x="50%" y="45" text-anchor="middle" class="text">
+    PROFILE SCAN
+    <animate attributeName="fill" values="#39FF14;#00FA9A;#39FF14" calcMode="discrete" dur="1.5s" repeatCount="indefinite" />
+  </text>
+</svg>
