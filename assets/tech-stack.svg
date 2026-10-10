@@ -1,15 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="70">
   <style>
-    .text { 
-      font-family: 'Press Start 2P', 'Courier New', monospace; 
-      font-size: 32px; 
-      font-weight: 900;
-      letter-spacing: 4px;
-      fill: #FF00FF; 
-    }
+    .text { font-family: 'Press Start 2P', 'Courier New', monospace; font-size: 32px; font-weight: 900; letter-spacing: 4px; }
   </style>
-  <text y="45" class="text">
+  <text x="50%" y="45" text-anchor="middle" class="text">
     TECH STACK
-    <animate attributeName="x" values="10; 360; 10" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="#FF00FF;#FF1493;#FF00FF" calcMode="discrete" dur="2.2s" repeatCount="indefinite" />
   </text>
 </svg>
