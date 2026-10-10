@@ -71,12 +71,20 @@
   <img src="https://www.gitskins.com/api/section/heatmap?username=dapidacmad&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3&refresh=3" alt="Contribution Space Shooter" />
 </p>
 
-<!-- CONTRIBUTION ACTIVITY: Animasi Pac-Man Asli -->
-<p align="center">
-  <a href="https://github.com/DapidAcmad/DapidAcmad/blob/main/pacman-output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/main/pacman-output/pacman-contribution-graph.svg?sanitize=true&v=2" alt="Pac-Man Activity" />
-  </a>
-</p>
+<!-- CONTRIBUTION ACTIVITY: Animasi Pac-Man Asli & Spotify -->
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 <!-- View Counter -->
 <br>
