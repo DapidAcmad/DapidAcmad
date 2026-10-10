@@ -1,11 +1,6 @@
-<!-- ABOUT ME: Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=4000&pause=500&color=39FF14&center=true&vCenter=true&width=750&height=35&lines=Hi+there!+I'm+David+Ahmad;I+am+a+Software+Engineering+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
-
-<!-- GITSKINS: HERO BANNER (Update Tema Aurora) -->
+<!-- GITSKINS: HERO BANNER -->
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=dapidacmad&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-hero-1" alt="David Ahmad Kurniawan hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=dapidacmad&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-hero-1" alt="Hero Banner" />
 </p>
 
 <!-- SOCIALS (Terminal Box Style) -->
@@ -49,11 +44,40 @@
   <img src="https://www.gitskins.com/api/section/projects?username=dapidacmad&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-projects-3" alt="Projects Visual" />
 </p>
 
-<!-- GITHUB STATS PANEL -->
+<!-- GITHUB STATS PANEL (2 Kotak Menjadi 1) -->
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DapidAcmad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Main Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DapidAcmad&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+  <code>
+    <img width="700" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=86400000&color=FF4500&center=true&vCenter=true&lines=~%2Fgithub_stats.sh+--analyze" alt="terminal header">
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=DapidAcmad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Main Stats" />
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DapidAcmad&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+    <br><br>
+  </code>
 </div>
 
-<!-- CONTRIBUTION ACTIVITY (Pac-Man & Heatmap Unified)
+<!-- CONTRIBUTION ACTIVITY (Pac-Man & Heatmap/Pesawat Bersatu) -->
+<br>
+<div align="center">
+  <code>
+    <img width="800" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=86400000&color=39FF14&center=true&vCenter=true&lines=~%2Fcontribution_activity.sh+--display" alt="terminal header">
+    <br><br>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/pacman-contribution-graph.svg?game=pacman">
+      <img alt="Pac-Man Activity" src="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    </picture>
+    <br><br>
+    <img src="https://www.gitskins.com/api/section/heatmap?username=dapidacmad&theme=aurora&style=erased&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-heatmap-3" alt="Contribution Heatmap Visual" />
+    <br><br>
+  </code>
+</div>
+
+<!-- View Counter -->
+<br>
+<div align="center">
+  <a href="https://github.com/DapidAcmad">
+    <img src="https://komarev.com/ghpvc/?username=DapidAcmad&label=Profile%20Views&color=7AA2F7&style=flat-square" alt="Profile Views" />
+  </a>
+</div>
