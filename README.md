@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=4000&pause=500&color=39FF14&center=true&vCenter=true&width=750&height=35&lines=Hi+there!+I'm+David+Ahmad;I+am+a+Software+Engineering+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<!-- GITSKINS: HERO BANNER -->
+<!-- GITSKINS: HERO BANNER (Update Tema Aurora) -->
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=dapidacmad&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-hero-1&refresh=1" alt="Hero Banner" />
+  <img src="https://www.gitskins.com/api/section/hero?username=dapidacmad&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-hero-1" alt="David Ahmad Kurniawan hero visual" />
 </p>
 
 <!-- SOCIALS (Terminal Box Style) -->
@@ -56,23 +56,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DapidAcmad&theme=tokyonight&hide_border=false" alt="Streak Stats" />
 </div>
 
-<!-- CONTRIBUTION ACTIVITY (Pac-Man & Heatmap Unified) -->
-<br>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="Pac-Man Activity" src="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  </picture>
-</div>
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=dapidacmad&theme=aurora&style=erased&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-heatmap-3" alt="Contribution Heatmap Visual" />
-</p>
-
-<!-- View Counter -->
-<br>
-<div align="center">
-  <a href="https://github.com/DapidAcmad">
-    <img src="https://komarev.com/ghpvc/?username=DapidAcmad&label=Profile%20Views&color=7AA2F7&style=flat-square" alt="Profile Views" />
-  </a>
-</div>
+<!-- CONTRIBUTION ACTIVITY (Pac-Man & Heatmap Unified)
