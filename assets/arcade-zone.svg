@@ -1,15 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="70">
   <style>
-    .text { 
-      font-family: 'Press Start 2P', 'Courier New', monospace; 
-      font-size: 32px; 
-      font-weight: 900;
-      letter-spacing: 4px;
-      fill: #39FF14; 
-    }
+    .text { font-family: 'Press Start 2P', 'Courier New', monospace; font-size: 32px; font-weight: 900; letter-spacing: 4px; }
   </style>
-  <text y="45" class="text">
+  <text x="50%" y="45" text-anchor="middle" class="text">
     ARCADE ZONE
-    <animate attributeName="x" values="10; 340; 10" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="#00FFFF;#FF00FF;#FFFF00;#39FF14;#00FFFF" calcMode="discrete" dur="2.5s" repeatCount="indefinite" />
   </text>
 </svg>
