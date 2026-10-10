@@ -1,12 +1,3 @@
-<!-- ABOUT ME: Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=4000&pause=500&color=39FF14&center=true&vCenter=true&width=750&height=35&lines=Hi+there!+I'm+David+Ahmad;I+am+a+Software+Engineering+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
-
-<!-- GITSKINS: HERO BANNER -->
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=dapidacmad&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-hero-1&refresh=3" alt="Hero Banner" />
-</p>
 
 <!-- SOCIALS (Minimalis) -->
 <br>
@@ -25,13 +16,12 @@
 </div>
 
 <!-- GITSKINS: SYSTEM SCAN & WORDMARK -->
-<br>
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/system-scan?username=dapidacmad&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-system-scan-2&refresh=3" alt="System Scan" />
-</p>
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=dapidacmad&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-wordmark-2&refresh=3" alt="Wordmark DAVID" />
-</p>
+<a href="https://github.com/dapidacmad">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=dapidacmad&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&variant=space-shooter&v=space-hero-5&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=dapidacmad&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&variant=space-shooter&v=space-hero-5&mode=dark" width="100%" alt="dapidacmad animated terminal profile" />
+</picture>
+</a>
 
 <!-- SELECTED PROJECTS (Kustom Tabel HTML) -->
 <br>
