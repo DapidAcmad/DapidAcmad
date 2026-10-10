@@ -1,11 +1,16 @@
-<!-- Bagian About Me -->
+<!-- About Me (Animasi Mengetik) -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=39FF14&center=true&vCenter=true&width=700&height=35&lines=Hi+there!+I'm+David+Ahmad;I+am+a+Vocational+School+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
+<!-- GITSKINS: HERO BANNER -->
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=dapidacmad&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-hero-1" alt="David Ahmad Kurniawan hero visual" />
+</p>
+
 <br>
 
-<!-- SOCIALS -->
+<!-- SOCIALS (Neon Blue) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/globe%20(1).gif" width="30" height="30"><br>
   <img src="./assets/socials.svg" alt="SOCIALS" />
@@ -21,7 +26,7 @@
 
 ---
 
-<!-- TECH STACK -->
+<!-- TECH STACK (Neon Pink) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/computer%20mouse/computer%20mouse_32%20-%20Copy.gif" width="30" height="30"><br>
   <img src="./assets/tech-stack.svg" alt="TECH STACK" />
@@ -41,24 +46,36 @@
 
 ---
 
-<!-- POPULAR REPOS -->
+<!-- PROFILE SCAN (Neon Green) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/rocket/rocket_32.gif" width="30" height="30"><br>
+  <img src="./assets/profile-scan.svg" alt="PROFILE SCAN" />
+</div>
+
+<!-- GITSKINS: SYSTEM SCAN (Wajah ASCII) -->
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/system-scan?username=dapidacmad&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-system-scan-2" alt="David Ahmad Kurniawan system-scan visual" />
+</p>
+
+---
+
+<!-- POPULAR REPOS (Neon Yellow/Gold) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/rocket/rocket_32.gif" width="30" height="30"><br>
   <img src="./assets/popular-repos.svg" alt="POPULAR REPOS" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/DapidAcmad/belajar-git">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=DapidAcmad&repo=belajar-git&theme=tokyonight&hide_border=false" />
-  </a>
-  <a href="https://github.com/DapidAcmad/DapidAcmad">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=DapidAcmad&repo=DapidAcmad&theme=tokyonight&hide_border=false" />
-  </a>
-</div>
+<!-- GITSKINS: WORDMARK & PROJECTS -->
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=dapidacmad&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-wordmark-2" alt="David Ahmad Kurniawan wordmark visual" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=dapidacmad&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-projects-3" alt="David Ahmad Kurniawan projects visual" />
+</p>
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS (Neon Red/Orange) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/chart%20increasing/chart%20increasing_32.gif" width="30" height="30"><br>
   <img src="./assets/github-stats.svg" alt="GITHUB STATS" />
@@ -72,7 +89,7 @@
 
 ---
 
-<!-- ARCADE ZONE -->
+<!-- ARCADE ZONE (Multicolor) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/animocons/master/animocons/video%20game/video%20game_32.gif" width="30" height="30"><br>
   <img src="./assets/arcade-zone.svg" alt="ARCADE ZONE" />
@@ -89,14 +106,10 @@
 
 <br>
 
-<!-- Animasi Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<!-- GITSKINS: HEATMAP / KAPAL LUAR ANGKASA (Pengganti Snake) -->
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=dapidacmad&theme=aurora&style=erased&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-heatmap-3" alt="David Ahmad Kurniawan heatmap visual" />
+</p>
 
 <br>
 
