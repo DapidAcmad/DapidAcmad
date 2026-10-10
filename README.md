@@ -1,8 +1,3 @@
-<!-- ABOUT ME: Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=4000&pause=500&color=39FF14&center=true&vCenter=true&width=750&height=35&lines=Hi+there!+I'm+David+Ahmad;I+am+a+Web+Developer+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
-
 <!-- HEADER: GITSKINS HERO BANNER -->
 <div align="center">
   <a href="https://github.com/dapidacmad">
@@ -41,12 +36,25 @@
 <br>
 <hr>
 
-<!-- GITHUB ANALYTICS -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- GITHUB ANALYTICS DASHBOARD -->
+<h2 align="center">📊 GitHub Analytics</h2>
+<br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DapidAcmad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&v=2" alt="Main Stats" />
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DapidAcmad&theme=tokyonight&hide_border=false&v=2" alt="Streak Stats" />
+  <!-- Baris 1: Main Stats & Top Languages bersebelahan -->
+  <a href="https://github.com/DapidAcmad">
+    <img src="https://github-readme-stats.vercel.app/api?username=DapidAcmad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=7AA2F7&icon_color=7AA2F7" height="195" alt="GitHub Main Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DapidAcmad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DapidAcmad&theme=tokyonight&hide_border=false&layout=compact&title_color=7AA2F7" height="195" alt="Top Languages" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <!-- Baris 2: Streak Stats di tengah bawah -->
+  <a href="https://github.com/DapidAcmad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DapidAcmad&theme=tokyonight&hide_border=false&ring=7AA2F7&fire=7AA2F7&currStreakNum=7AA2F7" alt="GitHub Streak Stats" />
+  </a>
 </div>
 
 <br>
@@ -66,3 +74,41 @@
       <p><sub>⭐ 1 · 🍴 0</sub></p>
       <p><a href="https://github.com/DapidAcmad/DapidAcmad">Read the repository →</a></p>
     </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/DapidAcmad/DapidAchmad">DapidAchmad</a></h3>
+      <p>orang sehat</p>
+      <p><sub>Python · ⭐ 0</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/DapidAcmad/belajar-git">belajar-git</a></h3>
+      <p>A selected public project.</p>
+      <p><sub>Python · ⭐ 0</sub></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+<hr>
+
+<!-- GAMIFIED CONTRIBUTION ACTIVITY -->
+<h2 align="center">🎮 Contribution Activity</h2>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=dapidacmad&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3&refresh=3" alt="Contribution Space Shooter" />
+</p>
+
+<br>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/social?username=dapidacmad&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-social-5" alt="David Ahmad Kurniawan social visual" />
+</p>
+<!-- PROFILE VIEW COUNTER -->
+<br><br>
+<div align="center">
+  <a href="https://github.com/DapidAcmad">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDapidAcmad&count_bg=%237AA2F7&title_bg=%231a1b26&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=true" alt="Profile Views" />
+  </a>
+</div>
