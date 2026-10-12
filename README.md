@@ -9,6 +9,7 @@
 </div>
 
 <!-- CONNECT WITH ME -->
+<h2 align="center">Contact Me</h2>
 <br>
 <div align="center">
     <a href="https://instagram.com/@dapid_38"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" /></a> &nbsp;
@@ -18,24 +19,16 @@
     <a href="mailto:david.nawan.2010@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /></a>
 </div>
 
-<!-- SPOTIFY MUSIC -->
-<br>
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
-</div>
-
-<br>
-<hr>
 
 <!-- TECH STACK -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,powershell,gcp,github" alt="Tech Stack Icons" />
-</div>
+<p><code>dapidacmad@github ~ $ toolbox --list</code></p>
 
-<br>
-<hr>
-
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=dapidacmad&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&style=terminal&v=oss-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=dapidacmad&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="David Ahmad Kurniawan open-source technology toolbox" />
+</picture>
+</p>
 <!-- GITHUB ANALYTICS DASHBOARD -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <br>
@@ -96,19 +89,19 @@
 <hr>
 
 <!-- GAMIFIED CONTRIBUTION ACTIVITY -->
+
 <h2 align="center">🎮 Contribution Activity</h2>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dapidacmad&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=dapidacmad&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="David Ahmad Kurniawan open-source signal" />
+</picture>
+</p>
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=dapidacmad&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3&refresh=3" alt="Contribution Space Shooter" />
 </p>
-
 <br>
 <p align="center">
 <img src="https://www.gitskins.com/api/section/social?username=dapidacmad&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-social-5" alt="David Ahmad Kurniawan social visual" />
 </p>
-<!-- PROFILE VIEW COUNTER -->
-<br><br>
-<div align="center">
-  <a href="https://github.com/DapidAcmad">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDapidAcmad&count_bg=%237AA2F7&title_bg=%231a1b26&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=true" alt="Profile Views" />
-  </a>
-</div>
+
