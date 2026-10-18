@@ -22,13 +22,22 @@
 
 <!-- CONNECT WITH ME -->
 <h2><code>$ Contact Me</code></h2>
-<br>
 <div align="center">
-    <a href="https://instagram.com/@dapid_38"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" /></a> &nbsp;
-    <a href="https://linkedin.com/in/David%20Ahmad"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a> &nbsp;
-    <a href="https://tiktok.com/@dapidd038"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="100" alt="TikTok" /></a> &nbsp;
-    <a href="https://mastodon.social/@David%20Ahmad"><img src="https://skillicons.dev/icons?i=mastodon" width="40" alt="Mastodon" /></a> &nbsp;
-    <a href="mailto:david.nawan.2010@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /></a>
+  <a href="https://www.instagram.com/dapid_38" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/david-ahmad-11a441421/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40">
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@dapidd038" target="_blank">
+    <img src="https://img.icons8.com/color/48/tiktok--v1.png" alt="TikTok" width="40" height="40">
+  </a>
+  &nbsp;
+  <a href="mailto:davidahmadkurniawan505@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40">
+  </a>
 </div>
 <!-- GITHUB ANALYTICS DASHBOARD -->
 <h2><code>$ which --all toolchain</code></h2>
