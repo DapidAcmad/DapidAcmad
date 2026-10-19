@@ -92,6 +92,15 @@ $me = new Developer();$me->getCurrentStatus();
 
 <!-- GAMIFIED CONTRIBUTION ACTIVITY -->
 <h2><code>$ Contribution Activity</code></h2>
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+</picture>
+
+###
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=dapidacmad&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3&refresh=3" alt="Contribution Space Shooter" />
 </p>
