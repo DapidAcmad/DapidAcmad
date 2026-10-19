@@ -21,9 +21,9 @@ class Developer {
     public $school   = 'SMKN 2 Magelang';
     public $role     = 'Web Developer';
     
-    public $tools    = ['VS Code', 'Git', 'XAMPP', 'GitHub', 'Laragon'];
+    public $tools    = ['windows', 'VS Code', 'Git', 'XAMPP', 'GitHub', 'Laragon'];
     public $stack    = ['HTML', 'CSS', 'JS', 'PHP', 'Python'];
-    public $contact  = ['Instagram', 'TikTok', 'Email'];
+    public $contact  = ['Instagram', 'TikTok', 'linkedin', 'Email'];
     
     public function getCurrentStatus() {
         return "Software Engineering Student 🚀";
