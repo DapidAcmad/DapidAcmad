@@ -126,7 +126,10 @@ $me = new Developer();$me->getCurrentStatus();
   </a>
 </div>
 <br/><br/>
-p align="center">
+<p align="center">
+  <h2>
+    <code> $ david</code>
+  </h2>
 <img src="https://www.gitskins.com/api/section/wordmark?username=dapidacmad&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&v=showcase-wordmark-2" alt="David Ahmad Kurniawan wordmark visual" />
 </p>
 
