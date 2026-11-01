@@ -43,15 +43,6 @@ $me = new Developer();$me->getCurrentStatus();
 </div>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<!-- SKILLS & TOOLS -->
-<h2><code>$ primary stack</code></h2>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=dapidacmad&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=dapidacmad&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="David Ahmad Kurniawan animated technology stack" />
-</picture>
-<p align="center"><sub>JavaScript · CSS · PHP · Python · HTML · chosen for the work, not the trend</sub></p>
-
 <h2><code>$ all tools</code></h2>
 <div align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -78,10 +69,10 @@ $me = new Developer();$me->getCurrentStatus();
 
 <!-- SELECTED PROJECTS -->
 <h2><code>$ Built, shipped, shared</code></h2>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=dapidacmad&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&repos=dapidacmad%2FDapidAcmad%2Cdapidacmad%2Fprojekgabut%2Cdapidacmad%2Fdapid-PPLG-3&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=dapidacmad&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&repos=dapidacmad%2FDapidAcmad%2Cdapidacmad%2Fprojekgabut%2Cdapidacmad%2Fdapid-PPLG-3&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="David Ahmad Kurniawan animated project constellation" />
-</picture>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/galaxy?username=dapidacmad&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fu%3D07f1f2785704f2e335902da8df1c27a79acd3196%26v%3D4" alt="dapidacmad galaxy visual" />
+</p>
+
 <table width="100%">
 <tr>
 <td width="33%" valign="top"><p><strong><a href="https://github.com/DapidAcmad/DapidAcmad">DapidAcmad</a></strong></p><p>Personal Github Profil Readme</p><p><sub>Open source · ⭐ 1</sub></p></td>
@@ -101,10 +92,6 @@ $me = new Developer();$me->getCurrentStatus();
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DapidAcmad/DapidAcmad/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=dapidacmad&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3&refresh=3" alt="Contribution Space Shooter" />
-</p>
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
 <!-- CONNECT WITH ME -->
@@ -127,6 +114,9 @@ $me = new Developer();$me->getCurrentStatus();
   </a>
 </div>
 <br/><br/>
+<h2>
+    <code> $ david -- el turu</code>
+  </h2>
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 <p align="center">
