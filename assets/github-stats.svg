@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="70">
-  <style>
-    .text { font-family: 'Press Start 2P', 'Courier New', monospace; font-size: 32px; font-weight: 900; letter-spacing: 4px; }
-  </style>
-  <text x="50%" y="45" text-anchor="middle" class="text">
-    GITHUB STATS
-    <animate attributeName="fill" values="#FF4500;#FF0000;#FF4500" calcMode="discrete" dur="1.7s" repeatCount="indefinite" />
-  </text>
-</svg>
