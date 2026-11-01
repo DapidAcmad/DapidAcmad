@@ -1,14 +1,12 @@
 <!-- HEADER: GITSKINS HERO BANNER -->
 <div align="center">
-<p><code>dapidacmad@github ~ $ ./maintainer.sh</code></p>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=dapidacmad&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=dapidacmad&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="David Ahmad Kurniawan animated maintainer system scan" />
-</picture>
-</p>
-</div>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/neofetch?username=dapidacmad&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fu%3D07f1f2785704f2e335902da8df1c27a79acd3196%26v%3D4&role=Frontend+or+full-stack+engineer&mode=light" />
+  <img src="https://www.gitskins.com/api/section/neofetch?username=dapidacmad&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fu%3D07f1f2785704f2e335902da8df1c27a79acd3196%26v%3D4&role=Frontend+or+full-stack+engineer&mode=dark" width="100%" alt="David Ahmad Kurniawan: neofetch-style profile card" />
+</picture>
+
+</div>
 <!-- ABOUT ME (PHP BLOCK) -->
 <h2><code>$ tail -n 7 /var/log/build.log</code></h2>
 
@@ -36,11 +34,14 @@ $me = new Developer();$me->getCurrentStatus();
 ```
 
 <!-- GITHUB STATS -->
-<h2><code>$ Momentum, made visible</code></h2>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dapidacmad&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=dapidacmad&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298284210%3Fv%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="David Ahmad Kurniawan animated GitHub signal" />
-</picture>
+##  `> unlock --achievements`
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=dapidacmad&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+</div>
+
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
 <!-- SKILLS & TOOLS -->
@@ -126,6 +127,8 @@ $me = new Developer();$me->getCurrentStatus();
   </a>
 </div>
 <br/><br/>
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+
 <p align="center">
   <h2>
     <code> $ david</code>
